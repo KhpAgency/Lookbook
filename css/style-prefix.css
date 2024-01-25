@@ -64,6 +64,11 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
 
 
 /* new css start */
+.code {
+    margin: 0 0 10px 0;
+    font-size: 12px;
+}
+
 .img-box1 {
     transform: scale(5) !important;
     margin: 120px 0 0 0px;
@@ -372,6 +377,7 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
     -ms-transform: scale(4.5) !important;
     -o-transform: scale(4.5) !important;
 }
+
 .img-box36 {
     transform: scale(4) !important;
     margin: -120px 0 0px 20px;
@@ -380,6 +386,7 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
     -ms-transform: scale(4) !important;
     -o-transform: scale(4) !important;
 }
+
 .img-box37 {
     transform: scale(4) !important;
     margin: -180px 0 0px 30px;
@@ -388,6 +395,7 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
     -ms-transform: scale(4) !important;
     -o-transform: scale(4) !important;
 }
+
 .img-box38 {
     transform: scale(4) !important;
     margin: -150px 0 0px 10px;
@@ -396,6 +404,7 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
     -ms-transform: scale(4) !important;
     -o-transform: scale(4) !important;
 }
+
 .img-box39 {
     transform: scale(4) !important;
     margin: -150px 0 0px 10px;
@@ -404,6 +413,7 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
     -ms-transform: scale(4) !important;
     -o-transform: scale(4) !important;
 }
+
 .img-box40 {
     transform: scale(3.5) !important;
     margin: -150px 0 0px 35px;
@@ -608,7 +618,8 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
     }
 
     .img-box21 {
-        transform: scale(4) !important;
+        -webkit-transform: scale(4) !important;
+                transform: scale(4) !important;
         margin: -150px 0 0 -40px;
         -webkit-transform: scale(6) !important;
         -moz-transform: scale(4) !important;
@@ -668,7 +679,7 @@ Author URL: https://themeforest.net/user/ultimatewebsolutions/
         -moz-transform: scale(6) !important;
         -ms-transform: scale(6) !important;
         -o-transform: scale(6) !important;
-}
+    }
 
     .img-box28 {
         transform: scale(5) !important;
